@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "description": "ToDo desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewMatyushkin/desktopToDo.git"
+  },
+  "author": "Matyushkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewMatyushkin/desktopToDo/issues"
+  },
+  "homepage": "https://github.com/AndrewMatyushkin/desktopToDo#readme",
+  "devDependencies": {
+    "electron": "^8.1.1"
+  }
+}
